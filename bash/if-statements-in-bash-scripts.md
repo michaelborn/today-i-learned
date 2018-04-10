@@ -21,7 +21,9 @@ then
 fi
 ```
 
-TIL if statements in shell scripts require the `then` keyword to be on a separate line. (As a sidenote, this should be considered under the age-old question: ["Should curly braces appear on their own line?"][3]
+Today I Learned: If statements in shell scripts require the `then` keyword to be on a separate line.
+
+(As a sidenote, this should be considered under the age-old question: ["Should curly braces appear on their own line?"][3])
 
 [1]:https://bitbucket.org/snippets/mbornBCG/6eG6kn
 [2]:http://bencane.com/2014/01/27/8-examples-of-bash-if-statements-to-get-you-started/
