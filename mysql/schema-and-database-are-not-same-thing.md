@@ -12,4 +12,4 @@ Bottom line: You can call a database a schema in MySQL, but if you do in Postgre
 
 I guess that's that.
 
-[1]:https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5
+[1]:https://dev.to/dmfay/the-ultimate-postgres-vs-mysql-blog-post-1l5f
