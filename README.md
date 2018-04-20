@@ -6,6 +6,7 @@ I shamelessly stole this idea from https://github.com/jbranchaud/til
 
 * [Bash](#bash)
 * [SQL](#sql)
+* [Vim](#vim))
 * [Wordpress](#wordpress))
 
 ## Bash
@@ -15,6 +16,10 @@ I shamelessly stole this idea from https://github.com/jbranchaud/til
 ## SQL
 
 * ["Schema" and "Database" are not the same thing!](mysql/schema-and-database-are-not-same-thing.md)
+
+## Vim
+
+* [How to highlight search results in Vim](vim/highlight-search-matches-in-vim.md)
 
 ## Wordpress
 
