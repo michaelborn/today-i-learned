@@ -1,6 +1,6 @@
 # Today I Learned
 
-I shamelessly stole this idea from https://github.com/jbranchaud/til
+Developer things, both little and small, which I learned along the way.
 
 ## Categories
 
