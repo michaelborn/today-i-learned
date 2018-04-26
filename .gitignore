@@ -1,0 +1,10 @@
+# Erg
+.DS_Store
+
+# editors
+*.swp
+*.swo
+.vscode
+
+# Node, yuknow
+node_modules
