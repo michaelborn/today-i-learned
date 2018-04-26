@@ -12,6 +12,7 @@ Developer things, both little and small, which I learned along the way.
 ## Bash
 
 * [If Statements in Bash](bash/if-statements-in-bash-scripts.md)
+* [Make a Custom Shell Prompt](bash/make-a-custom-shell-prompt.md)
 
 ## SQL
 
