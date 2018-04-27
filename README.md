@@ -5,6 +5,7 @@ Developer things, both little and small, which I learned along the way.
 ## Categories
 
 * [Bash](#bash)
+* [IIS](#iis)
 * [SQL](#sql)
 * [Vim](#vim))
 * [Wordpress](#wordpress))
@@ -13,6 +14,10 @@ Developer things, both little and small, which I learned along the way.
 
 * [If Statements in Bash](bash/if-statements-in-bash-scripts.md)
 * [Make a Custom Shell Prompt](bash/make-a-custom-shell-prompt.md)
+
+## IIS
+
+* [Turn On Error Details in IIS](iis/turn-on-error-details.md)
 
 ## SQL
 
