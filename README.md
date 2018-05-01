@@ -16,6 +16,10 @@ Developer things, both little and small, which I learned along the way.
 * [Make a Custom Shell Prompt](bash/make-a-custom-shell-prompt.md)
 * [Escape ANSI Sequences to Avoid Shell Prompt Malfunctions](bash/escape-ansi-sequences.md)
 
+## Git
+
+* [Restore Deleted Files from Older Commits](git/restore-deleted-files-from-old-commits.md)
+
 ## IIS
 
 * [Turn On Error Details in IIS](iis/turn-on-error-details.md)
