@@ -19,6 +19,7 @@ Developer things, both little and small, which I learned along the way.
 ## Git
 
 * [Restore Deleted Files from Older Commits](git/restore-deleted-files-from-old-commits.md)
+* [Discover Why Git Won't Track a File](git/discover-why-git-wont-track-file.md)
 
 ## IIS
 
