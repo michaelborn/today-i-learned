@@ -6,6 +6,7 @@ Developer things, both little and small, which I learned along the way.
 
 * [Bash](#bash)
 * [IIS](#iis)
+* [Javascript](#javascript)
 * [SQL](#sql)
 * [Vim](#vim))
 * [Wordpress](#wordpress))
@@ -24,6 +25,10 @@ Developer things, both little and small, which I learned along the way.
 ## IIS
 
 * [Turn On Error Details in IIS](iis/turn-on-error-details.md)
+
+## Javascript
+
+* [Ignore Right-click Events in a `mousedown` Event Handler](javascript/ignore-right-click-in-mousedown-event-handler.md)
 
 ## SQL
 
