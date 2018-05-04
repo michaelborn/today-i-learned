@@ -5,6 +5,7 @@ Developer things, both little and small, which I learned along the way.
 ## Categories
 
 * [Bash](#bash)
+* [CSS](#css)
 * [IIS](#iis)
 * [Javascript](#javascript)
 * [SQL](#sql)
@@ -16,6 +17,10 @@ Developer things, both little and small, which I learned along the way.
 * [If Statements in Bash](bash/if-statements-in-bash-scripts.md)
 * [Make a Custom Shell Prompt](bash/make-a-custom-shell-prompt.md)
 * [Escape ANSI Sequences to Avoid Shell Prompt Malfunctions](bash/escape-ansi-sequences.md)
+
+## CSS
+
+* [Firefox Can't Wrap Flex Elements In Print](css/firefox-cant-wrap-flex-elements-in-print.md)
 
 ## Git
 
