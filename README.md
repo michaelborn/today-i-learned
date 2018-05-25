@@ -15,6 +15,7 @@ Developer things, both little and small, which I learned along the way.
 ## Bash
 
 * [If Statements in Bash](bash/if-statements-in-bash-scripts.md)
+* [Check For Empty String in Bash](bash/check-for-empty-string.md)
 * [Make a Custom Shell Prompt](bash/make-a-custom-shell-prompt.md)
 * [Escape ANSI Sequences to Avoid Shell Prompt Malfunctions](bash/escape-ansi-sequences.md)
 
@@ -41,12 +42,6 @@ Developer things, both little and small, which I learned along the way.
 
 ## Vim
 
-* [How to highlight search results in Vim](vim/highlight-search-matches-in-vim.md)
-
-## Wordpress
-
-* [How to get the URL of a Job Listings page](wordpress/get-url-job-listings-page.md)
-* [How to override login messages with `add_filter()`](wordpress/override-login-messages-with-add-filter.md)
 * [How to highlight search results in Vim](vim/highlight-search-matches-in-vim.md)
 
 ## Wordpress
