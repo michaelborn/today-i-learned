@@ -8,6 +8,7 @@ Developer things, both little and small, which I learned along the way.
 * [CSS](#css)
 * [IIS](#iis)
 * [Javascript](#javascript)
+* [PHP](#php)
 * [SQL](#sql)
 * [Vim](#vim))
 * [Wordpress](#wordpress))
@@ -36,6 +37,10 @@ Developer things, both little and small, which I learned along the way.
 ## Javascript
 
 * [Ignore Right-click Events in a `mousedown` Event Handler](javascript/ignore-right-click-in-mousedown-event-handler.md)
+
+## PHP
+
+* [Cron Jobs Have Different `$_SERVER` Globals](php/cron-jobs-have-different-server-globals.md)
 
 ## SQL
 
