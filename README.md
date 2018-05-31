@@ -42,9 +42,10 @@ Developer things, both little and small, which I learned along the way.
 
 * [Cron Jobs Have Different `$_SERVER` Globals](php/cron-jobs-have-different-server-globals.md)
 
-## SQL
+## MySQL
 
 * ["Schema" and "Database" are not the same thing!](mysql/schema-and-database-are-not-same-thing.md)
+* [You can't add an index to a view!](mysql/cant-add-index-to-view.md)
 
 ## Vim
 
