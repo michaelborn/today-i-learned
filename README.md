@@ -29,6 +29,7 @@ Developer things, both little and small, which I learned along the way.
 * [Restore Deleted Files from Older Commits](git/restore-deleted-files-from-old-commits.md)
 * [Discover Why Git Won't Track a File](git/discover-why-git-wont-track-file.md)
 * [Remove File From Last Git Commit](git/remove-file-from-last-commit.md)
+* [Cherry Pick a Commit From a Detached Head](git/cherry-pick-commit-from-detached-head.md)
 
 ## IIS
 
