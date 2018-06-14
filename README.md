@@ -30,6 +30,7 @@ Developer things, both little and small, which I learned along the way.
 * [Discover Why Git Won't Track a File](git/discover-why-git-wont-track-file.md)
 * [Remove File From Last Git Commit](git/remove-file-from-last-commit.md)
 * [Cherry Pick a Commit From a Detached Head](git/cherry-pick-commit-from-detached-head.md)
+* [Delete a Remote Branch](git/delete-remote-branch.md)
 
 ## IIS
 
