@@ -53,6 +53,7 @@ Developer things, both little and small, which I learned along the way.
 ## Vim
 
 * [How to highlight search results in Vim](vim/highlight-search-matches-in-vim.md)
+* [Override Indentation Settings for a Specific Filetype](vim/override-indentation-settings-for-specific-filetype.md)
 
 ## Wordpress
 
