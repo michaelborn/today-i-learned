@@ -20,6 +20,7 @@ Developer things, both little and small, which I learned along the way.
 * [Make a Custom Shell Prompt](bash/make-a-custom-shell-prompt.md)
 * [Escape ANSI Sequences to Avoid Shell Prompt Malfunctions](bash/escape-ansi-sequences.md)
 * [Toggle Debug Mode for Command Output](bash/toggle-debug-mode.md)
+* [Add User To Sudo Group](bash/add-user-to-sudo-group.md)
 
 ## CSS
 
