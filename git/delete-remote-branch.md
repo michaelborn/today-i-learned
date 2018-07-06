@@ -1,15 +1,15 @@
-# Delete a Remote Branch
+# Delete a Remote Branch in Git
 
 No explaning here. I've got a branch in my repo, want to get rid of it.
 
 ```bash
-git branch -d <remote> <branch_name>
+git push -d <remote> <branch_name>
 ```
 
 I'm trying to get rid of this old `agent-system` branch, so:
 
 ```bash
-git branch -d origin agent-system
+git push -d origin agent-system
 ```
 
 Thanks to [this massive StackOverflow answer by Matthew Rankin and Michael Johnson][1].
