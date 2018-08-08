@@ -21,6 +21,7 @@ Developer things, both little and small, which I learned along the way.
 * [Escape ANSI Sequences to Avoid Shell Prompt Malfunctions](bash/escape-ansi-sequences.md)
 * [Toggle Debug Mode for Command Output](bash/toggle-debug-mode.md)
 * [Add User To Sudo Group](bash/add-user-to-sudo-group.md)
+* [Convert Putty (PPK) SSH key file to OpenSSH key file](bash/convert-putty-ppk-to-openssh.md)
 
 ## CSS
 
