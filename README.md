@@ -46,6 +46,7 @@ Developer things, both little and small, which I learned along the way.
 ## PHP
 
 * [Cron Jobs Have Different `$_SERVER` Globals](php/cron-jobs-have-different-server-globals.md)
+* [Load Composer Packages From a Git or VCS Repo](php/load-composer-packages-from-git-repo.md)
 
 ## MySQL
 
