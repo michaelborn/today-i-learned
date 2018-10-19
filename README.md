@@ -54,6 +54,7 @@ Developer things, both little and small, which I learned along the way.
 * ["Schema" and "Database" are not the same thing!](mysql/schema-and-database-are-not-same-thing.md)
 * [You can't add an index to a view!](mysql/cant-add-index-to-view.md)
 * [GRANT permissions for a MySQLdump command are more involved than I thought](mysql/grant-permissions-for-mysql-dump.md)
+* [Trim the TAB Character From A Field](mysql/trim-tab-character-from-field.md)
 
 ## Vim
 
