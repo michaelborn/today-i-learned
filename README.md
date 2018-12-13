@@ -11,7 +11,7 @@ Developer things, both little and small, which I learned along the way.
 * [PHP](#php)
 * [SQL](#sql)
 * [Vim](#vim)
-* [Wordpress](#wordpress))
+* [Wordpress](#wordpress)
 
 ## Bash
 
