@@ -9,9 +9,10 @@ Developer things, both little and small, which I learned along the way.
 * [IIS](#iis)
 * [Javascript](#javascript)
 * [PHP](#php)
-* [SQL](#sql)
-* [Vim](#vim)
-* [Wordpress](#wordpress)
+* [MySQL](#mysql)
+* [SQL Server](#sql-server)
+* [Vim](#vim))
+* [Wordpress](#wordpress))
 
 ## Bash
 
@@ -55,6 +56,10 @@ Developer things, both little and small, which I learned along the way.
 * [You can't add an index to a view!](mysql/cant-add-index-to-view.md)
 * [GRANT permissions for a MySQLdump command are more involved than I thought](mysql/grant-permissions-for-mysql-dump.md)
 * [Trim the TAB Character From A Field](mysql/trim-tab-character-from-field.md)
+
+## Sql Server
+
+* [Show Columns In a Table](sql-server/show-columns-in-table.md)
 
 ## Vim
 
