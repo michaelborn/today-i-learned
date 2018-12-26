@@ -4,15 +4,18 @@ Developer things, both little and small, which I learned along the way.
 
 ## Categories
 
-* [Bash](#bash)
-* [CSS](#css)
-* [IIS](#iis)
-* [Javascript](#javascript)
-* [PHP](#php)
-* [MySQL](#mysql)
-* [SQL Server](#sql-server)
-* [Vim](#vim))
-* [Wordpress](#wordpress))
+- [Today I Learned](#today-i-learned)
+  - [Categories](#categories)
+  - [Bash](#bash)
+  - [CSS](#css)
+  - [Git](#git)
+  - [IIS](#iis)
+  - [Javascript](#javascript)
+  - [PHP](#php)
+  - [MySQL](#mysql)
+  - [Sql Server](#sql-server)
+  - [Vim](#vim)
+  - [Wordpress](#wordpress)
 
 ## Bash
 
@@ -60,7 +63,11 @@ Developer things, both little and small, which I learned along the way.
 ## Sql Server
 
 * [Show Columns In a Table](sql-server/show-columns-in-table.md)
+<<<<<<< HEAD
 * [Format Date Strings](sql-server/format-date-strings.md)
+=======
+* [Alter an Existing Constraint](sql-server/alter-existing-constraint.md)
+>>>>>>> bcf94b3af995a7cbf2d9f9a8a1174c9cab67ca25
 
 ## Vim
 
