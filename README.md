@@ -63,11 +63,8 @@ Developer things, both little and small, which I learned along the way.
 ## Sql Server
 
 * [Show Columns In a Table](sql-server/show-columns-in-table.md)
-<<<<<<< HEAD
 * [Format Date Strings](sql-server/format-date-strings.md)
-=======
 * [Alter an Existing Constraint](sql-server/alter-existing-constraint.md)
->>>>>>> bcf94b3af995a7cbf2d9f9a8a1174c9cab67ca25
 
 ## Vim
 
