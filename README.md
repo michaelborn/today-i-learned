@@ -60,6 +60,7 @@ Developer things, both little and small, which I learned along the way.
 ## Sql Server
 
 * [Show Columns In a Table](sql-server/show-columns-in-table.md)
+* [Format Date Strings](sql-server/format-date-strings.md)
 
 ## Vim
 
