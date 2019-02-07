@@ -5,17 +5,17 @@ Developer things, both little and small, which I learned along the way.
 ## Categories
 
 - [Today I Learned](#today-i-learned)
-  - [Categories](#categories)
-  - [Bash](#bash)
-  - [CSS](#css)
-  - [Git](#git)
-  - [IIS](#iis)
-  - [Javascript](#javascript)
-  - [PHP](#php)
-  - [MySQL](#mysql)
-  - [Sql Server](#sql-server)
-  - [Vim](#vim)
-  - [Wordpress](#wordpress)
+- [Categories](#categories)
+- [Bash](#bash)
+- [CSS](#css)
+- [Git](#git)
+- [IIS](#iis)
+- [Javascript](#javascript)
+- [PHP](#php)
+- [MySQL](#mysql)
+- [Sql Server](#sql-server)
+- [Vim](#vim)
+- [Wordpress](#wordpress)
 
 ## Bash
 
