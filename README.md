@@ -8,6 +8,7 @@ Developer things, both little and small, which I learned along the way.
 - [Categories](#categories)
 - [Bash](#bash)
 - [CSS](#css)
+- [Docker](#docker)
 - [Git](#git)
 - [IIS](#iis)
 - [Javascript](#javascript)
@@ -31,6 +32,10 @@ Developer things, both little and small, which I learned along the way.
 ## CSS
 
 * [Firefox Can't Wrap Flex Elements In Print](css/firefox-cant-wrap-flex-elements-in-print.md)
+
+## Docker
+
+* [Disable Auto-Restart on Docker Containers](docker/disable-auto-restart-on-container.md)
 
 ## Git
 
