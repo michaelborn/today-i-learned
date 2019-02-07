@@ -36,6 +36,7 @@ Developer things, both little and small, which I learned along the way.
 ## Docker
 
 * [Disable Auto-Restart on Docker Containers](docker/disable-auto-restart-on-container.md)
+* [Env Vars Use Equal Signs - Not Colons!](docker/env-vars-use-equal-signs.md)
 
 ## Git
 
