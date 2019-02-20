@@ -45,6 +45,7 @@ Developer things, both little and small, which I learned along the way.
 * [Remove File From Last Git Commit](git/remove-file-from-last-commit.md)
 * [Cherry Pick a Commit From a Detached Head](git/cherry-pick-commit-from-detached-head.md)
 * [Delete a Remote Branch](git/delete-remote-branch.md)
+* [Stash Specific Files and Filenames](git/stash-specific-files-and-filenames.md)
 
 ## IIS
 
