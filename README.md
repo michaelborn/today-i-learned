@@ -5,18 +5,19 @@ Developer things, both little and small, which I learned along the way.
 ## Categories
 
 - [Today I Learned](#today-i-learned)
-- [Categories](#categories)
-- [Bash](#bash)
-- [CSS](#css)
-- [Docker](#docker)
-- [Git](#git)
-- [IIS](#iis)
-- [Javascript](#javascript)
-- [PHP](#php)
-- [MySQL](#mysql)
-- [Sql Server](#sql-server)
-- [Vim](#vim)
-- [Wordpress](#wordpress)
+  - [Categories](#categories)
+  - [Bash](#bash)
+  - [CSS](#css)
+  - [Docker](#docker)
+  - [Git](#git)
+  - [IIS](#iis)
+  - [Javascript](#javascript)
+  - [PHP](#php)
+  - [MySQL](#mysql)
+  - [Oracle](#oracle)
+  - [Sql Server](#sql-server)
+  - [Vim](#vim)
+  - [Wordpress](#wordpress)
 
 ## Bash
 
@@ -66,6 +67,10 @@ Developer things, both little and small, which I learned along the way.
 * [You can't add an index to a view!](mysql/cant-add-index-to-view.md)
 * [GRANT permissions for a MySQLdump command are more involved than I thought](mysql/grant-permissions-for-mysql-dump.md)
 * [Trim the TAB Character From A Field](mysql/trim-tab-character-from-field.md)
+
+## Oracle
+
+* [Get Oracle Database Version](oracle/get-database-version.md)
 
 ## Sql Server
 
