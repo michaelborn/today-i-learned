@@ -71,6 +71,7 @@ Developer things, both little and small, which I learned along the way.
 ## Oracle
 
 * [Get Oracle Database Version](oracle/get-database-version.md)
+* [Date Formatting using `TO_CHAR`](oracle/date-format.md)
 
 ## Sql Server
 
