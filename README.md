@@ -33,7 +33,7 @@ Developer things, both little and small, which I learned along the way.
 
 ## Coldfusion
 
-* [Ignore Linting Rules in CFLint]
+* [Ignore Linting Rules in CFLint](coldfusion/ignore-rules-in-cflint.md)
 
 ## CSS
 
