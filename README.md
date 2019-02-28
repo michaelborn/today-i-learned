@@ -7,6 +7,7 @@ Developer things, both little and small, which I learned along the way.
 - [Today I Learned](#today-i-learned)
   - [Categories](#categories)
   - [Bash](#bash)
+  - [Coldfusion](#coldfusion)
   - [CSS](#css)
   - [Docker](#docker)
   - [Git](#git)
@@ -29,6 +30,10 @@ Developer things, both little and small, which I learned along the way.
 * [Add User To Sudo Group](bash/add-user-to-sudo-group.md)
 * [Convert Putty (PPK) SSH key file to OpenSSH key file](bash/convert-putty-ppk-to-openssh.md)
 * [SSH Key File Permissions Must Be Exact](bash/ssh-key-permissions-must-be-exact.md)
+
+## Coldfusion
+
+* [Ignore Linting Rules in CFLint]
 
 ## CSS
 
