@@ -83,6 +83,7 @@ Developer things, both little and small, which I learned along the way.
 * [Show Columns In a Table](sql-server/show-columns-in-table.md)
 * [Format Date Strings](sql-server/format-date-strings.md)
 * [Alter an Existing Constraint](sql-server/alter-existing-constraint.md)
+* [Change a Column Name](sql-server/rename-column.md)
 
 ## Vim
 
