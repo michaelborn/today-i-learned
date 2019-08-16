@@ -30,6 +30,7 @@ Developer things, both little and small, which I learned along the way.
 * [Add User To Sudo Group](bash/add-user-to-sudo-group.md)
 * [Convert Putty (PPK) SSH key file to OpenSSH key file](bash/convert-putty-ppk-to-openssh.md)
 * [SSH Key File Permissions Must Be Exact](bash/ssh-key-permissions-must-be-exact.md)
+* [Grep For a String With .cfc File Type](bash/grep-with-file-type.md)
 
 ## Coldfusion
 
