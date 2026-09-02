@@ -18,7 +18,7 @@ jobs:
         with:
           fetch-depth: 0
 
-      - uses: Sceleratis/markdown-table-of-contents-generator-action@v1
+      - uses: Sceleratis/markdown-table-of-contents-generator-action@v1.0.4
         with:
           table-file: README.md
           root-path: .
