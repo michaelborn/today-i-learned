@@ -62,6 +62,7 @@ Developer things, both little and small, which I learned along the way.
 
 * [Write getter and setter functions in an object literal](javascript/getter-and-setter-functions.md)
 * [Ignore Right-click Events in a `mousedown` Event Handler](javascript/ignore-right-click-in-mousedown-event-handler.md)
+* [Typescript Basics](javascript/typescript-basics.md)
 
 ## PHP
 
