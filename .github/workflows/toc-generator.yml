@@ -24,7 +24,7 @@ jobs:
         with:
           table-file: README.md
           root-path: .
-          exclude-root: false
+          exclude-root: true
 
       - uses: EndBug/add-and-commit@v10
         with:
