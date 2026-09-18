@@ -24,6 +24,7 @@ Developer things, both little and small, which I learned along the way.
   - [cherry-pick-commit-from-detached-head](git/cherry-pick-commit-from-detached-head.md)
   - [delete-remote-branch](git/delete-remote-branch.md)
   - [discover-why-git-wont-track-file](git/discover-why-git-wont-track-file.md)
+  - [git-show-file-from-branch](git/git-show-file-from-branch.md)
   - [remove-file-from-last-commit](git/remove-file-from-last-commit.md)
   - [restore-deleted-files-from-old-commits](git/restore-deleted-files-from-old-commits.md)
   - [stash-specific-files-and-filenames](git/stash-specific-files-and-filenames.md)
