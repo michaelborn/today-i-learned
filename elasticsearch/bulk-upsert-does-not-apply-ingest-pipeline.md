@@ -14,12 +14,15 @@ I ran into an issue where a pre-existing document was retaining field values aft
 
 I asked Perplexity about this, and I got this response:
 
+> Yes—Bulk API upserts can use an index’s index.default_pipeline when the upsert results in a new document being created, provided you do not override the pipeline at request or per-item level. Existing-document updates are not generally re-ingested through the default pipeline.
+> 
+> ...
+>  
 > If [the document] already exists, Elasticsearch applies the partial update and does not run the ingest pipeline over the merged stored document.
 
 This feels a bit "wrong" to me, instinctually, just because I would expect an ingest pipeline to allow transformations to be applied consistently, whether creating NEW documents or merely updating existing ones.
 
 However...they are called *ingest* pipelines for a reason! And you can still [apply pipelines manually](#manually-applying-a-pipeline-during-bulk-insert). Lessons learned!
-
 
 ## Manually Applying a Pipeline During Bulk Insert
 
