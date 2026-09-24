@@ -10,6 +10,7 @@ Developer things, both little and small, which I learned along the way.
   - [escape-ansi-sequences](bash/escape-ansi-sequences.md)
   - [grep-with-file-type](bash/grep-with-file-type.md)
   - [if-statements-in-bash-scripts](bash/if-statements-in-bash-scripts.md)
+  - [inline-conditionals](bash/inline-conditionals.md)
   - [make-a-custom-shell-prompt](bash/make-a-custom-shell-prompt.md)
   - [ssh-key-permissions-must-be-exact](bash/ssh-key-permissions-must-be-exact.md)
   - [toggle-debug-mode](bash/toggle-debug-mode.md)
