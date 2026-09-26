@@ -23,6 +23,8 @@ Developer things, both little and small, which I learned along the way.
   - [env-vars-use-equal-signs](docker/env-vars-use-equal-signs.md)
 - [elasticsearch](elasticsearch)
   - [bulk-upsert-does-not-apply-ingest-pipeline](elasticsearch/bulk-upsert-does-not-apply-ingest-pipeline.md)
+- [ghostty](ghostty)
+  - [set-light-and-dark-themes](ghostty/set-light-and-dark-themes.md)
 - [git](git)
   - [cherry-pick-commit-from-detached-head](git/cherry-pick-commit-from-detached-head.md)
   - [delete-remote-branch](git/delete-remote-branch.md)
